@@ -57,9 +57,9 @@ html,body{
 }
 
 .wrapper span:first-child{
-    filter: blur(10px);
+    filter: blur(50px);
 }
 
 .wrapper span:last-child{
-    filter: blur(20px);
+    filter: blur(60px);
 }
